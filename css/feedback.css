@@ -1,0 +1,23 @@
+﻿body {
+    background-image: url(../images/feedback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.feedback1 {
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+.feedback2 {
+    margin: auto;
+    text-align: center;
+}
+
+.buttun {
+    margin: auto;
+    text-align: center;
+}

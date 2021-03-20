@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CSHarp_BigWork111", ".", "{E1343A94-2C93-4C3F-9DE8-0B623CCBC049}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61446"
+		Debug.AspNetCompiler.PhysicalPath = "..\CSHarp_BigWork111\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61446\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61446"
+		Release.AspNetCompiler.PhysicalPath = "..\CSHarp_BigWork111\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61446\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61446"
+		SlnRelativePath = "..\CSHarp_BigWork111\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1343A94-2C93-4C3F-9DE8-0B623CCBC049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1343A94-2C93-4C3F-9DE8-0B623CCBC049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1343A94-2C93-4C3F-9DE8-0B623CCBC049}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E1343A94-2C93-4C3F-9DE8-0B623CCBC049}.Debug|x64.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FC0540-4F5E-4362-920D-1854299A3FCA}
+	EndGlobalSection
+EndGlobal

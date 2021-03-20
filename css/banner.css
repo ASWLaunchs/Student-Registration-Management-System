@@ -1,0 +1,25 @@
+﻿body {
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.banner {
+    color:white;
+}
+.banner1 {
+    margin:auto;
+    text-align:center;
+}
+.banner2 {
+    margin:auto;
+    text-align:center;
+}
+.banner3 {
+    margin:auto;
+    text-align:center;
+}
+.button {
+    margin:auto;
+    text-align: center;
+}
